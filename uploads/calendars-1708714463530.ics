@@ -1,0 +1,919 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CS 120 Fall 2022
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:Semester Academic Plan and Schedule
+BEGIN:VTIMEZONE
+TZID:America/New_York
+X-LIC-LOCATION:America/New_York
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+TZNAME:EDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+TZNAME:EST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART:20220913T183000Z
+DTEND:20220913T190000Z
+DTSTAMP:20240223T055903Z
+UID:01jbts9si9r4oj8uadut729p2o@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:<html-blob>Sign up for office hours at&nbsp\;<b><a href="http:/
+ /shortl.io/cs0-career-coaching-office-hours"><u>shortl.io/cs0-career-coachi
+ ng-office-hours</u></a>!</b><br><br><b>For career coaching\,</b> we can cha
+ t about:<br>* Interview tips<br>* Resume reviews<br>* My time in industry<b
+ r>&nbsp\;Or anything else on your mind!<br><br><b>For a mock interview\,</b
+ > please email <a href="mailto:shahmansi@google.com">shahmansi@google.com</
+ a> 24 hours ahead of time to give me a heads up!&nbsp\;<u></u><br><u></u><u
+ l><li>The interview itself will take 30-40 minutes.</li><li>Please tell me 
+ if there's a topic in particular you want to work on.</li></ul><br><b>If yo
+ u have questions about course content\, </b>please email <a href="mailto:sh
+ ahmansi@google.com">shahmansi@google.com</a> in advance so I can review the
+  material. Students with questions about career will take precedence.</html
+ -blob>
+LAST-MODIFIED:20220918T194146Z
+LOCATION:meet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Office Hours + Career Coaching w/ Mansi (Manoj Nath Yogi)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220922T190000Z
+DTEND:20220922T200000Z
+DTSTAMP:20240223T055903Z
+UID:1ggf5q3qalupofrpeest3l5oha@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T194146Z
+LOCATION:Howard University\, 2400 6th St NW\, Washington\, DC 20059\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Volunteer - Career Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220922T150000Z
+DTEND:20220922T180000Z
+DTSTAMP:20240223T055903Z
+UID:4jqj6pq5oknr4hlnbjj29v82bs@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T194146Z
+LOCATION:Howard University\, 2400 6th St NW\, Washington\, DC 20059\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Volunteer - Career Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220909T210000Z
+DTEND:20220909T223000Z
+DTSTAMP:20240223T055903Z
+UID:6cskr240kbrpalqll6pprtqi7j@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:Sign up for Office Hours at <b><a href="https://www.google.com/
+ url?q=http://shortl.io/cs0-career-coaching-office-hours&amp\;sa=D&amp\;sour
+ ce=calendar&amp\;ust=1663186547501890&amp\;usg=AOvVaw2O5Ns4UJTNgHhHqdj0JpCK
+ " target="_blank"><u><u><u><u>shortl.io/cs0-career-coaching-office-hours</u
+ ></u></u></u></a>Â </b>to talk about career or run through a mock interview
+ ! We&#39\;ll be meeting via Google Meet (<br><u></u><b><br></b>For career c
+ oaching\,Â we can chat about:<br>* Interview tips<br>* Resume reviews<br>* 
+ My time in industry<br>Â Or anything else on your mind!<br><br>For a mock i
+ nterview:<br>* The interview itself will take 30-40 minutes.<br>* Email me 
+ at <a href="mailto:nigham@google.com" target="_blank">nigham@google.com</a>
+ Â if there&#39\;s a topic in particular you want to work on.
+LAST-MODIFIED:20220918T194146Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Career coaching / Mock interviews w/ Anshul
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220919T111000
+DTEND;TZID=America/New_York:20220919T120000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=MO,WE,FR
+DTSTAMP:20240223T055903Z
+UID:6gb0rqtst9om2o9kstb6p7kjc8r20220919T151000@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:Canvas\nZoom\nand Drive & EMail
+LAST-MODIFIED:20220918T194146Z
+LOCATION:Online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ENGW 104
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220922T120000Z
+DTEND:20220922T140000Z
+DTSTAMP:20240223T055903Z
+UID:755428mrnt152vh4oar8c6gkld@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T194146Z
+LOCATION:Howard University\, 2400 6th St NW\, Washington\, DC 20059\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Volunteer - Career Fair
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220914T180000Z
+DTEND:20220914T182000Z
+DTSTAMP:20240223T055903Z
+UID:9dm18mc0rqjc7kca7u5fji8b6c@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:Event Name: Howard University Pre-Interview Screens\n\nWe are h
+ osting pre-interviews in room 1114G in theÂ Lewis K. Downing Building for o
+ ur Technology Internship as well as Associate Software Engineer roles. Plea
+ se come with a copy of your resume!\n\nLocation: Lewis K. Downing Building 
+ Office of Student Services - Room 1114G\n\nPlease share anything that will 
+ help prepare for our meeting.:\n- Help me to review my Resume\n- Technical 
+ Interview stuffs\n- any additional suggestions\n\nNeed to make changes to t
+ his event?\nCancel: https://calendly.com/cancellations/b49360a5-704b-4d4b-9
+ f45-dba4a4ade4e9\nReschedule: https://calendly.com/reschedulings/b49360a5-7
+ 04b-4d4b-9f45-dba4a4ade4e9\n\nPowered by Calendly.com\n
+LAST-MODIFIED:20220918T194146Z
+LOCATION: Lewis K. Downing Building Office of Student Services - Room 1114G
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Manoj Nath Yogi and CoStar Group Interview Room 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220729T153000Z
+DTEND:20220729T160000Z
+DTSTAMP:20240223T055903Z
+UID:040000008200E00074C5B7101A82E008000000005E2DA7A5DDA2D801000000000000000
+ 01000000013730D70382AAE4E8C93970B0A39061A
+CREATED:20220918T194105Z
+DESCRIPTION:Event Name: 30 Minute Meeting\n\nLocation: This is a Zoom web c
+ onference.\n\nYou can join this meeting from your computer\, tablet\, or sm
+ artphone.\nhttps://howard.zoom.us/j/89092024764?pwd=V2luQ0tmZXFZRjF6V0Rjb09
+ VL3Vsdz09<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2
+ Fhoward.zoom.us%2Fj%2F89092024764%3Fpwd%3DV2luQ0tmZXFZRjF6V0Rjb09VL3Vsdz09&
+ data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7C6845503e053e4ea2e5c608da
+ 70f4c8dc%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637946493891940580%7C
+ Unknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiL
+ CJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wQiaM%2Fgq%2FVOBNT%2BXWWR8nORLElRh6BLht
+ kDu66YXsas%3D&reserved=0>\n\nPassword: 65589822\n\nOne tap mobile:\n+1 301 
+ 715 8592\,\,89092024764#\n+1 312 626 6799\,\,89092024764#\n\nYou can also d
+ ial in using your phone.\nUS: +1 301 715 8592\, +1 312 626 6799\, +1 646 55
+ 8 8656\, +1 646 931 3860\, +1 253 215 8782\, +1 346 248 7799\, +1 386 347 5
+ 053\, +1 564 217 2000\, +1 669 444 9171\, +1 669 900 6833\nMeeting ID: 890-
+ 920-24764\n\nFind your local number: https://howard.zoom.us/u/kdH7yLd2bY<ht
+ tps://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhoward.zoom
+ .us%2Fu%2FkdH7yLd2bY&data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7C684
+ 5503e053e4ea2e5c608da70f4c8dc%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C
+ 637946493891940580%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2lu
+ MzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=hPew%2FaoRPmFZ1U0e
+ TBRcvSPzLXZA8Lap%2BAF%2B5xylePk%3D&reserved=0>\n\nPlease share anything tha
+ t will help prepare for our meeting.:\nDear Dr. Harry\,\nGreetings!\n\nHope
+  you are doing well. My name is Manoj Nath Yogi\, and I am currently a fres
+ hman majoring in Economics. However\, I now believe that Computer Science w
+ ould be a better fit for my aptitude and interests. Therefore\, I am writin
+ g to request a transfer from Economics to Computer Science.\n\nMy student i
+ d is @03085696\n\nThank you.\n\nWith regards\,\nManoj Nath Yogi\n\nNeed to 
+ make changes to this event?\nCancel: https://calendly.com/cancellations/066
+ f2867-dc97-47d7-ab08-4405eb5f8855<https://nam04.safelinks.protection.outloo
+ k.com/?url=https%3A%2F%2Fcalendly.com%2Fcancellations%2F066f2867-dc97-47d7-
+ ab08-4405eb5f8855&data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7C684550
+ 3e053e4ea2e5c608da70f4c8dc%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637
+ 946493891940580%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzI
+ iLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=7YaLamkt%2BvPF61BxdRO
+ yUw%2FDgMzQ2y%2FXyBsQBYv7%2Fkc%3D&reserved=0>\nReschedule: https://calendly
+ .com/reschedulings/066f2867-dc97-47d7-ab08-4405eb5f8855<https://nam04.safel
+ inks.protection.outlook.com/?url=https%3A%2F%2Fcalendly.com%2Freschedulings
+ %2F066f2867-dc97-47d7-ab08-4405eb5f8855&data=05%7C01%7Cmanoj.nathyogi%40bis
+ on.howard.edu%7C6845503e053e4ea2e5c608da70f4c8dc%7C02ac0c07b75f46bf9b133630
+ ba94bb69%7C0%7C0%7C637946493891940580%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wL
+ jAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata
+ =mZKgk7DC20eugwsHhcCmMIVqm5wIm13YNFy0T5ka864%3D&reserved=0>\n\nPowered by C
+ alendly https://calendly.com/<https://nam04.safelinks.protection.outlook.co
+ m/?url=https%3A%2F%2Fcalendly.com%2F&data=05%7C01%7Cmanoj.nathyogi%40bison.
+ howard.edu%7C6845503e053e4ea2e5c608da70f4c8dc%7C02ac0c07b75f46bf9b133630ba9
+ 4bb69%7C0%7C0%7C637946493891940580%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAw
+ MDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=tt
+ c%2FjyW73BONftsUlWFp7TIoYQLogs4sdHrqwSsdaXk%3D&reserved=0>\n
+LAST-MODIFIED:20220918T194146Z
+LOCATION:https://howard.zoom.us/j/89092024764?pwd=V2luQ0tmZXFZRjF6V0Rjb09VL
+ 3Vsdz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Manoj Nath Yogi and Harry N Keeling
+TRANSP:OPAQUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://howard.zoom.us/j/89092024764?pwd=V2
+ luQ0tmZXFZRjF6V0Rjb09VL3Vsdz09
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://howard.zoom.us/j/89092024764
+ ?pwd=V2luQ0tmZXFZRjF6V0Rjb09VL3Vsdz09"\,"LocationAnnotation":""\,"LocationU
+ ri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""\,"Locati
+ onCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}]
+X-MICROSOFT-CDO-OWNERAPPTID:2120737374
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-LOCATIONSOURCE:None
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220915T200000Z
+DTEND:20220915T223000Z
+DTSTAMP:20240223T055903Z
+UID:040000008200E00074C5B7101A82E00800000000600CF90630B6D801000000000000000
+ 0100000008D27EAE703584247B43036BE61D6D90F
+CREATED:20220918T194105Z
+DESCRIPTION:Welcome to Jacobs Mid-Atlantic Industry Day!\nWeâre so excite
+ d youâre joining us for our Fall recruiting virtual event. Our goal is fo
+ r you to learn about Jacobsâ industry-leading culture\, mission\, and val
+ ues\, gain an understanding of our primary services and markets\, interface
+  directly with Jacobs staff\, and learn how you can become one of our next 
+ generation of leaders. Our high level agenda will be as follows:\n\n\n  *  
+  Opening Remarks and Recruitment Stories | 4 â 4:20\n  *   About Jacobs |
+  4:20 â 4:45 PM\n  *   Market Overviews and Breakout Rooms | 4:45 â 5:4
+ 5 PM\n  *   Onboarding Stories and Recruitment Resources | 5:45 â 6:10 PM
+ \n  *   Questions and Closing Remarks | 6:10 â 6:30 PM\n_________________
+ _______________________________________________________________\nMicrosoft 
+ Teams meeting\nJoin on your computer or mobile app\nClick here to join the 
+ meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTFiOTQ3ODgt
+ MGJjOS00YzY2LTgwMzctNDNjNTg4OWIyNjRm%40thread.v2/0?context=%7b%22Tid%22%3a%
+ 2237247798-f42c-42fd-8a37-d49c7128d36b%22%2c%22Oid%22%3a%22c52c71f7-d194-43
+ d8-bdb8-f8f1a1526c5c%22%7d>\nMeeting ID: 266 423 289 151\nPasscode: zsFMNu\
+ nDownload Teams<https://www.microsoft.com/en-us/microsoft-teams/download-ap
+ p> | Join on the web<https://www.microsoft.com/microsoft-teams/join-a-meeti
+ ng>\nJoin with a video conferencing device\n493366865@t.plcm.vc<mailto:4933
+ 66865@t.plcm.vc>\nVideo Conference ID: 115 850 974 6\nAlternate VTC instruc
+ tions<https://dialin.plcm.vc/teams/?key=493366865&conf=1158509746>\nOr call
+  in (audio only)\n+1 469-214-8538\,\,872382316#<tel:+14692148538\,\,8723823
+ 16#>   United States\, Dallas\nPhone Conference ID: 872 382 316#\nFind a lo
+ cal number<https://dialin.teams.microsoft.com/c3ca2e73-d387-43fd-b8a1-d57ee
+ ac6eb4a?id=872382316> | Reset PIN<https://dialin.teams.microsoft.com/usp/ps
+ tnconferencing>\nLearn More<https://aka.ms/JoinTeamsMeeting> | Meeting opti
+ ons<https://teams.microsoft.com/meetingOptions/?organizerId=c52c71f7-d194-4
+ 3d8-bdb8-f8f1a1526c5c&tenantId=37247798-f42c-42fd-8a37-d49c7128d36b&threadI
+ d=19_meeting_NTFiOTQ3ODgtMGJjOS00YzY2LTgwMzctNDNjNTg4OWIyNjRm@thread.v2&mes
+ sageId=0&language=en-US>\n_________________________________________________
+ _______________________________\n\n\n________________________________\n\nNO
+ TICE - This communication may contain confidential and privileged informati
+ on that is for the sole use of the intended recipient. Any viewing\, copyin
+ g or distribution of\, or reliance on this message by unintended recipients
+  is strictly prohibited. If you have received this message in error\, pleas
+ e notify us immediately by replying to the message and deleting it from you
+ r computer.\n
+LAST-MODIFIED:20220918T194146Z
+LOCATION:Microsoft Teams Meeting
+SEQUENCE:4
+STATUS:CONFIRMED
+SUMMARY:Jacobs Mid-Atlantic Industry Day
+TRANSP:OPAQUE
+X-MICROSOFT-ONLINEMEETINGINFORMATION:{"OnlineMeetingChannelId":null\,"Onlin
+ eMeetingProvider":3}
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_NTFiOTQ3ODgtMGJjOS00YzY
+ 2LTgwMzctNDNjNTg4OWIyNjRm@thread.v2"\,"private":true\,"type":0\,"mid":0\,"r
+ id":0\,"uid":null}
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-OWNERAPPTID:-1426683930
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/37247798-f42c-42fd-8a37-d49c7128d36b/c52c71f7-d194-43d8-bdb8-f8
+ f1a1526c5c/19_meeting_NTFiOTQ3ODgtMGJjOS00YzY2LTgwMzctNDNjNTg4OWIyNjRm@thre
+ ad.v2/0
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:Olivia.Monforton@jacobs.com\;gru
+ u\;opaque=app:conf:focus:id:teams:2:0!19:meeting_NTFiOTQ3ODgtMGJjOS00YzY2LT
+ gwMzctNDNjNTg4OWIyNjRm-thread.v2!c52c71f7d19443d8bdb8f8f1a1526c5c!37247798f
+ 42c42fd8a37d49c7128d36b
+X-MICROSOFT-CDO-APPT-SEQUENCE:4
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams Meeting"\, "Loca
+ tionAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Locat
+ ionUri" : "" } ]
+X-MICROSOFT-DISALLOW-COUNTER:TRUE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_NTFiOTQ3ODgtMGJjOS00YzY2LTgwMzctNDNjNTg4OWIyNjRm%40thread.v2/0
+ ?context=%7b%22Tid%22%3a%2237247798-f42c-42fd-8a37-d49c7128d36b%22%2c%22Oid
+ %22%3a%22c52c71f7-d194-43d8-bdb8-f8f1a1526c5c%22%7d
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220815T173000Z
+DTEND:20220815T180000Z
+DTSTAMP:20240223T055903Z
+UID:040000008200E00074C5B7101A82E008000000006CF1A50EEEA8D801000000000000000
+ 0100000000C66A5E24F8C3F44B082724C3F65903B
+CREATED:20220918T194105Z
+DESCRIPTION:Event Name: 30 Minute Meeting\n\nLocation: This is a Zoom web c
+ onference.\n\nYou can join this meeting from your computer\, tablet\, or sm
+ artphone.\nhttps://howard.zoom.us/j/87277527193?pwd=MTQwcXRYbnNwalNTRE04L1F
+ OV2lTZz09<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2
+ Fhoward.zoom.us%2Fj%2F87277527193%3Fpwd%3DMTQwcXRYbnNwalNTRE04L1FOV2lTZz09&
+ data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7Cd6f661cbce634a12e5f808da
+ 7b094209%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637957576935556587%7C
+ Unknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiL
+ CJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=dwOURO45OasodYtMW8AnEPO9%2B5NswP6UxtB4n
+ 5H%2Fmks%3D&reserved=0>\n\nPassword: 39632045\n\nOne tap mobile:\n+1 646 93
+ 1 3860\,\,87277527193#\n+1 301 715 8592\,\,87277527193#\n\nYou can also dia
+ l in using your phone.\nUS: +1 646 931 3860\, +1 301 715 8592\, +1 312 626 
+ 6799\, +1 646 558 8656\, +1 669 900 6833\, +1 253 215 8782\, +1 346 248 779
+ 9\, +1 386 347 5053\, +1 564 217 2000\, +1 669 444 9171\nMeeting ID: 872-77
+ 5-27193\n\nFind your local number: https://howard.zoom.us/u/keA6MrASws<http
+ s://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhoward.zoom.u
+ s%2Fu%2FkeA6MrASws&data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7Cd6f66
+ 1cbce634a12e5f808da7b094209%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C63
+ 7957576935556587%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMz
+ IiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=1SkmWfeeG%2BTINPKJHB
+ Pia1ZDy7%2Bctd244FGKvi88bls%3D&reserved=0>\n\nPlease share anything that wi
+ ll help prepare for our meeting.: Class registration. I have several Errors
+  while registering for the classes.\n\nNeed to make changes to this event?\
+ nCancel: https://calendly.com/cancellations/8c117764-9f5d-4db5-8177-535e638
+ bb954<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcal
+ endly.com%2Fcancellations%2F8c117764-9f5d-4db5-8177-535e638bb954&data=05%7C
+ 01%7Cmanoj.nathyogi%40bison.howard.edu%7Cd6f661cbce634a12e5f808da7b094209%7
+ C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637957576935556587%7CUnknown%7C
+ TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0
+ %3D%7C3000%7C%7C%7C&sdata=cTdgUGvaOYgGcjmmbsvKQNteTkHnhRQS2KC7Cs2tsAs%3D&re
+ served=0>\nReschedule: https://calendly.com/reschedulings/8c117764-9f5d-4db
+ 5-8177-535e638bb954<https://nam04.safelinks.protection.outlook.com/?url=htt
+ ps%3A%2F%2Fcalendly.com%2Freschedulings%2F8c117764-9f5d-4db5-8177-535e638bb
+ 954&data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7Cd6f661cbce634a12e5f8
+ 08da7b094209%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C63795757693555658
+ 7%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1ha
+ WwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=FhNX02NOwyw1tud67jn20ounIxXVeEtGJ%2
+ FdPbMXEYxc%3D&reserved=0>\n\nPowered by Calendly https://calendly.com/<http
+ s://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcalendly.com%
+ 2F&data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7Cd6f661cbce634a12e5f80
+ 8da7b094209%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637957576935712819
+ %7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haW
+ wiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=GTY5pHYIYvXvWfnQIm2PueqZ1Ggt1jpVvefY
+ fsAAkvQ%3D&reserved=0>\n
+LAST-MODIFIED:20220918T194146Z
+LOCATION:https://howard.zoom.us/j/87277527193?pwd=MTQwcXRYbnNwalNTRE04L1FOV
+ 2lTZz09
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Manoj Nath Yogi and Harry N Keeling
+TRANSP:OPAQUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://howard.zoom.us/j/87277527193?pwd=MT
+ QwcXRYbnNwalNTRE04L1FOV2lTZz09
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://howard.zoom.us/j/87277527193
+ ?pwd=MTQwcXRYbnNwalNTRE04L1FOV2lTZz09"\,"LocationAnnotation":""\,"LocationU
+ ri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""\,"Locati
+ onCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}]
+X-MICROSOFT-CDO-OWNERAPPTID:2120756844
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-LOCATIONSOURCE:None
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220818T140000Z
+DTEND:20220818T143000Z
+DTSTAMP:20240223T055903Z
+UID:040000008200E00074C5B7101A82E00800000000971765956CB1D801000000000000000
+ 010000000CB4B35E7000AF2489749A7814FEE73DC
+CREATED:20220918T194105Z
+DESCRIPTION:Event Name: 30 Minute Meeting\n\nLocation: This is a Zoom web c
+ onference.\n\nYou can join this meeting from your computer\, tablet\, or sm
+ artphone.\nhttps://howard.zoom.us/j/82248478336?pwd=bmxUR3Ayc3VEeklhYks5L2h
+ BcFRpZz09<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2
+ Fhoward.zoom.us%2Fj%2F82248478336%3Fpwd%3DbmxUR3Ayc3VEeklhYks5L2hBcFRpZz09&
+ data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7Cfa4db6f976544239ff1a08da
+ 7f83b94f%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637962500974542230%7C
+ Unknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiL
+ CJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=vZdr8a%2BfgkCsVii6K6%2B%2FAMAFYcDKu7vON
+ %2FjrEe%2FsWDo%3D&reserved=0>\n\nPassword: 82137369\n\nOne tap mobile:\n+1 
+ 646 931 3860\,\,82248478336#\n+1 301 715 8592\,\,82248478336#\n\nYou can al
+ so dial in using your phone.\nUS: +1 646 931 3860\, +1 301 715 8592\, +1 30
+ 9 205 3325\, +1 312 626 6799\, +1 646 558 8656\, +1 669 444 9171\, +1 669 9
+ 00 6833\, +1 719 359 4580\, +1 253 215 8782\, +1 346 248 7799\, +1 386 347 
+ 5053\, +1 564 217 2000\nMeeting ID: 822-484-78336\n\nFind your local number
+ : https://howard.zoom.us/u/keDfNqP0ja<https://nam04.safelinks.protection.ou
+ tlook.com/?url=https%3A%2F%2Fhoward.zoom.us%2Fu%2FkeDfNqP0ja&data=05%7C01%7
+ Cmanoj.nathyogi%40bison.howard.edu%7Cfa4db6f976544239ff1a08da7f83b94f%7C02a
+ c0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637962500974542230%7CUnknown%7CTWFp
+ bGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%
+ 7C3000%7C%7C%7C&sdata=19HV8TkjM9zmxBvGbEEF%2FcvtMp%2FIaOQcW1HNRfExa6w%3D&re
+ served=0>\n\nPlease share anything that will help prepare for our meeting.:
+ \nClass registration\nId:@03085696\n\nNeed to make changes to this event?\n
+ Cancel: https://calendly.com/cancellations/7cad17ad-c203-4600-b556-974d553f
+ d320<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcale
+ ndly.com%2Fcancellations%2F7cad17ad-c203-4600-b556-974d553fd320&data=05%7C0
+ 1%7Cmanoj.nathyogi%40bison.howard.edu%7Cfa4db6f976544239ff1a08da7f83b94f%7C
+ 02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637962500974542230%7CUnknown%7CT
+ WFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%
+ 3D%7C3000%7C%7C%7C&sdata=il6fB0smy1RvPx0H4oK2jSFfJfxGwF0%2BqXxl53v1wbQ%3D&r
+ eserved=0>\nReschedule: https://calendly.com/reschedulings/7cad17ad-c203-46
+ 00-b556-974d553fd320<https://nam04.safelinks.protection.outlook.com/?url=ht
+ tps%3A%2F%2Fcalendly.com%2Freschedulings%2F7cad17ad-c203-4600-b556-974d553f
+ d320&data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7Cfa4db6f976544239ff1
+ a08da7f83b94f%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C6379625009745422
+ 30%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1h
+ aWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2FCHkbmGYV3yqRVy4Rxas3SaXE%2BhPvG
+ Xx8vhiKi53Src%3D&reserved=0>\n\nPowered by Calendly https://calendly.com/<h
+ ttps://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcalendly.c
+ om%2F&data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7Cfa4db6f976544239ff
+ 1a08da7f83b94f%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637962500974542
+ 230%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1
+ haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=fmac%2FO6Z5GpORjIHx1JpnwbiqQ%2B1X
+ dDxeGUJ1IJAHvQ%3D&reserved=0>\n
+LAST-MODIFIED:20220918T194146Z
+LOCATION:https://howard.zoom.us/j/82248478336?pwd=bmxUR3Ayc3VEeklhYks5L2hBc
+ FRpZz09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Manoj Nath Yogi  and Harry N Keeling
+TRANSP:OPAQUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://howard.zoom.us/j/82248478336?pwd=bm
+ xUR3Ayc3VEeklhYks5L2hBcFRpZz09
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://howard.zoom.us/j/82248478336
+ ?pwd=bmxUR3Ayc3VEeklhYks5L2hBcFRpZz09"\,"LocationAnnotation":""\,"LocationU
+ ri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""\,"Locati
+ onCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}]
+X-MICROSOFT-CDO-OWNERAPPTID:2120778903
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-LOCATIONSOURCE:None
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220801T153000Z
+DTEND:20220801T160000Z
+DTSTAMP:20240223T055903Z
+UID:040000008200E00074C5B7101A82E00800000000F09071E866A3D801000000000000000
+ 010000000856A3381F95EBB4197401910BECA7ABC
+CREATED:20220918T194105Z
+DESCRIPTION:Event Name: 30 Minute Meeting\n\nLocation: This is a Zoom web c
+ onference.\n\nYou can join this meeting from your computer\, tablet\, or sm
+ artphone.\nhttps://howard.zoom.us/j/85105841948?pwd=WGFkSXBkYXgzQjlXV2pQYWV
+ tNTJWQT09<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2
+ Fhoward.zoom.us%2Fj%2F85105841948%3Fpwd%3DWGFkSXBkYXgzQjlXV2pQYWVtNTJWQT09&
+ data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7C87ef8d069ef4455b32e108da
+ 717e0bd2%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637947083497433942%7C
+ Unknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiL
+ CJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=WMWR8Nl2KAsC1DNAe%2Fn6KcvVBb4kewfFggs1C
+ S%2FsAw4%3D&reserved=0>\n\nPassword: 40662124\n\nOne tap mobile:\n+1 301 71
+ 5 8592\,\,85105841948#\n+1 312 626 6799\,\,85105841948#\n\nYou can also dia
+ l in using your phone.\nUS: +1 301 715 8592\, +1 312 626 6799\, +1 646 558 
+ 8656\, +1 646 931 3860\, +1 669 444 9171\, +1 669 900 6833\, +1 253 215 878
+ 2\, +1 346 248 7799\, +1 386 347 5053\, +1 564 217 2000\nMeeting ID: 851-05
+ 8-41948\n\nFind your local number: https://howard.zoom.us/u/kcR5CmIvXG<http
+ s://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhoward.zoom.u
+ s%2Fu%2FkcR5CmIvXG&data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7C87ef8
+ d069ef4455b32e108da717e0bd2%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C63
+ 7947083497433942%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMz
+ IiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=KFsgjjBJaJCQGmqPFk36
+ n8tr4AnneGqlRYXrLy8w%2Fvw%3D&reserved=0>\n\nPlease share anything that will
+  help prepare for our meeting.:\nDear Dr. Harry\,\nGreetings!\n\nHope you a
+ re doing well. I have submitted the transfer request form of DocuSign in th
+ e todays meeting.\n\nThank you for your help and time\, sir.\n\nWith regard
+ s\,\nManoj Nath Yogi\n\nNeed to make changes to this event?\nCancel: https:
+ //calendly.com/cancellations/c60ca127-f76c-4608-9175-217565d1114c<https://n
+ am04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcalendly.com%2Fcan
+ cellations%2Fc60ca127-f76c-4608-9175-217565d1114c&data=05%7C01%7Cmanoj.nath
+ yogi%40bison.howard.edu%7C87ef8d069ef4455b32e108da717e0bd2%7C02ac0c07b75f46
+ bf9b133630ba94bb69%7C0%7C0%7C637947083497433942%7CUnknown%7CTWFpbGZsb3d8eyJ
+ WIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7
+ C%7C&sdata=1Vb%2BFUB0YzjsMi4ssxSqJUu5twai2lZcjxAQeIKkvQo%3D&reserved=0>\nRe
+ schedule: https://calendly.com/reschedulings/c60ca127-f76c-4608-9175-217565
+ d1114c<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fca
+ lendly.com%2Freschedulings%2Fc60ca127-f76c-4608-9175-217565d1114c&data=05%7
+ C01%7Cmanoj.nathyogi%40bison.howard.edu%7C87ef8d069ef4455b32e108da717e0bd2%
+ 7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637947083497433942%7CUnknown%7
+ CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn
+ 0%3D%7C3000%7C%7C%7C&sdata=fuEJmZMySJeNQW5pF0hyAUiaL%2BnhVK2MlL8qvdNfgos%3D
+ &reserved=0>\n\nPowered by Calendly https://calendly.com/<https://nam04.saf
+ elinks.protection.outlook.com/?url=https%3A%2F%2Fcalendly.com%2F&data=05%7C
+ 01%7Cmanoj.nathyogi%40bison.howard.edu%7C87ef8d069ef4455b32e108da717e0bd2%7
+ C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637947083497433942%7CUnknown%7C
+ TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0
+ %3D%7C3000%7C%7C%7C&sdata=oWgSaylSnESfK0WMJtCVmiYtGYSpP%2FhD1U3e8P47geQ%3D&
+ reserved=0>\n
+LAST-MODIFIED:20220918T194146Z
+LOCATION:https://howard.zoom.us/j/85105841948?pwd=WGFkSXBkYXgzQjlXV2pQYWVtN
+ TJWQT09
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Manoj Nath Yogi and Harry N Keeling
+TRANSP:OPAQUE
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://howard.zoom.us/j/85105841948?pwd=WG
+ FkSXBkYXgzQjlXV2pQYWVtNTJWQT09
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://howard.zoom.us/j/85105841948
+ ?pwd=WGFkSXBkYXgzQjlXV2pQYWVtNTJWQT09"\,"LocationAnnotation":""\,"LocationU
+ ri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""\,"Locati
+ onCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}]
+X-MICROSOFT-CDO-OWNERAPPTID:2120740336
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-LOCATIONSOURCE:None
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220801T041500Z
+DTEND:20220801T044500Z
+DTSTAMP:20240223T055903Z
+UID:bqm1sk1e99dto4fs9p2lbf7rks@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:Event Name: 30 Minute Meeting\n\nNeed to make changes to this e
+ vent?\nCancel: https://calendly.com/cancellations/5c60784f-4485-400d-aa10-5
+ b64390e4660\nReschedule: https://calendly.com/reschedulings/5c60784f-4485-4
+ 00d-aa10-5b64390e4660\n\nPowered by Calendly.com\n
+LAST-MODIFIED:20220918T194146Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Trial and Manoj Nath Yogi
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220906T180000Z
+DTEND:20220906T183000Z
+DTSTAMP:20240223T055903Z
+UID:kvkdjdfcod7rmpp93pjkr78nhs@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:<html-blob>Sign up for office hours at&nbsp\;<b><a href="http:/
+ /shortl.io/cs0-career-coaching-office-hours"><u>shortl.io/cs0-career-coachi
+ ng-office-hours</u></a>!</b><br><br><b>For career coaching\,</b> we can cha
+ t about:<br>* Interview tips<br>* Resume reviews<br>* My time in industry<b
+ r>&nbsp\;Or anything else on your mind!<br><br><b>For a mock interview\,</b
+ > please email <a href="mailto:shahmansi@google.com">shahmansi@google.com</
+ a> 24 hours ahead of time to give me a heads up!&nbsp\;<u></u><br><u></u><u
+ l><li>The interview itself will take 30-40 minutes.</li><li>Please tell me 
+ if there's a topic in particular you want to work on.</li></ul><br><b>If yo
+ u have questions about course content\, </b>please email <a href="mailto:sh
+ ahmansi@google.com">shahmansi@google.com</a> in advance so I can review the
+  material. Students with questions about career will take precedence.</html
+ -blob>
+LAST-MODIFIED:20220918T194146Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Office Hours + Career Coaching w/ Mansi (Manoj Nath Yogi)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220922T200000Z
+DTEND:20220922T203000Z
+DTSTAMP:20240223T055903Z
+UID:r1tdm2s8s82tfmbg0f96eiv9eo@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:[Via Google Meet] 30 mins general career coaching or a mock int
+ erview. See detailed description at hucs0.org/calendar
+LAST-MODIFIED:20220918T194146Z
+LOCATION:meet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:[Erinna] Career Coaching or Mock Interview  (Manoj Nath Yogi)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220920T180000Z
+DTEND:20220920T183000Z
+DTSTAMP:20240223T055903Z
+UID:ttvmc15fgbknp4n455plvacn80@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:<html-blob>Sign up for office hours at&nbsp\;<b><a href="http:/
+ /shortl.io/cs0-career-coaching-office-hours"><u>shortl.io/cs0-career-coachi
+ ng-office-hours</u></a>!</b><br><br><b>For career coaching\,</b> we can cha
+ t about:<br>* Interview tips<br>* Resume reviews<br>* My time in industry<b
+ r>&nbsp\;Or anything else on your mind!<br><br><b>For a mock interview\,</b
+ > please email <a href="mailto:shahmansi@google.com">shahmansi@google.com</
+ a> 24 hours ahead of time to give me a heads up!&nbsp\;<u></u><br><u></u><u
+ l><li>The interview itself will take 30-40 minutes.</li><li>Please tell me 
+ if there's a topic in particular you want to work on.</li></ul><br><b>If yo
+ u have questions about course content\, </b>please email <a href="mailto:sh
+ ahmansi@google.com">shahmansi@google.com</a> in advance so I can review the
+  material. Students with questions about career will take precedence.</html
+ -blob>
+LAST-MODIFIED:20220918T194146Z
+LOCATION:meet
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Office Hours + Career Coaching w/ Mansi (Manoj Nath Yogi)
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220918T080000
+DTEND;TZID=America/New_York:20220918T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=SU,SA
+DTSTAMP:20240223T055903Z
+UID:1aqq2jgk2nnns60g3jh72rtlsu_R20220918T120000@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T194331Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Personal Time/ Project/ Assignments
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220918T190000
+DTEND;TZID=America/New_York:20220918T233000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=FR,SA,SU
+DTSTAMP:20240223T055903Z
+UID:2j4c3ids0ns617bjfb9scpgeot_R20220918T230000@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T194411Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Assignments
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220822T090000
+DTEND;TZID=America/New_York:20220822T100000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=MO,WE,FR
+DTSTAMP:20240223T055903Z
+UID:62n3gh23mtvcrl4ugllm1nl7qc@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T194501Z
+LOCATION:38.921494846087036\, -77.02187314567668
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ECON 102
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220822T101000
+DTEND;TZID=America/New_York:20220822T110000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=MO,WE,TH
+DTSTAMP:20240223T055903Z
+UID:5knk2h6esrflgq8ffviku0pktu@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:hucs0.org
+LAST-MODIFIED:20220918T194522Z
+LOCATION:Online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CS 0
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220822T111000
+DTEND;TZID=America/New_York:20220822T120000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220919T035959Z;BYDAY=MO,WE,FR
+DTSTAMP:20240223T055903Z
+UID:6gb0rqtst9om2o9kstb6p7kjc8@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:Canvas\nZoom\nand Drive & EMail
+LAST-MODIFIED:20220918T194541Z
+LOCATION:Online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ENGW 104
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220822T120000
+DTEND;TZID=America/New_York:20220822T130000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=MO,WE,FR
+DTSTAMP:20240223T055903Z
+UID:5eur4qcekel775g0boq6s1qbju@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T194558Z
+LOCATION:Anywhere
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Revision/ Prep. of/ for classes
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220822T130000
+DTEND;TZID=America/New_York:20220822T140000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=MO,WE,FR
+DTSTAMP:20240223T055903Z
+UID:0ms661c9v1e4nmgc5tja15kri6@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:Blackboard\, \nZoom: Office Hours: MWF: 3pm - 4pm
+LAST-MODIFIED:20220918T194619Z
+LOCATION:B Street\, B St\, Washington\, DC 20319\, USA
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Math 180
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220822T140000
+DTEND;TZID=America/New_York:20220822T160000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=MO,WE
+DTSTAMP:20240223T055903Z
+UID:5lds7vs7o4gihhar422sft7cti@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T194637Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Revision/ Prep. of/ for class
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20220822T203000Z
+DTEND:20220822T210000Z
+DTSTAMP:20240223T055903Z
+UID:040000008200E00074C5B7101A82E00800000000E1A017E437B6D801000000000000000
+ 0100000008AE62FA0E8220C48BEF4443FFFCB056D
+CREATED:20220918T194105Z
+DESCRIPTION:Event Name: 30 Minute Meeting\n\nLocation: This is a Zoom web c
+ onference.\n\nYou can join this meeting from your computer\, tablet\, or sm
+ artphone.\nhttps://howard.zoom.us/j/85777724744?pwd=TzY3Sk5SQjU2VDlEZDVPT21
+ yWUFsQT09<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2
+ Fhoward.zoom.us%2Fj%2F85777724744%3Fpwd%3DTzY3Sk5SQjU2VDlEZDVPT21yWUFsQT09&
+ data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7C4e09d05f856e4af94b0008da
+ 845e2eb9%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C637967837282376321%7C
+ Unknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiL
+ CJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=evR%2FfzTepxMVA4ofj4bd%2FJFd5FzoZ6rdxUw
+ Oma9DV%2FI%3D&reserved=0>\n\nPassword: 99485578\n\nOne tap mobile:\n+1 309 
+ 205 3325\,\,85777724744#\n+1 312 626 6799\,\,85777724744#\n\nYou can also d
+ ial in using your phone.\nUS: +1 309 205 3325\, +1 312 626 6799\, +1 646 55
+ 8 8656\, +1 646 931 3860\, +1 301 715 8592\, +1 386 347 5053\, +1 564 217 2
+ 000\, +1 669 444 9171\, +1 669 900 6833\, +1 719 359 4580\, +1 253 215 8782
+ \, +1 346 248 7799\nMeeting ID: 857-777-24744\n\nFind your local number: ht
+ tps://howard.zoom.us/u/kskkIJnqG<https://nam04.safelinks.protection.outlook
+ .com/?url=https%3A%2F%2Fhoward.zoom.us%2Fu%2FkskkIJnqG&data=05%7C01%7Cmanoj
+ .nathyogi%40bison.howard.edu%7C4e09d05f856e4af94b0008da845e2eb9%7C02ac0c07b
+ 75f46bf9b133630ba94bb69%7C0%7C0%7C637967837282376321%7CUnknown%7CTWFpbGZsb3
+ d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000
+ %7C%7C%7C&sdata=oNJpGB9Qc%2BdJksBfsOqWLrsFLxZrrOXYeI674s39qCE%3D&reserved=0
+ >\n\nPlease share anything that will help prepare for our meeting.: Class r
+ egistration\n\nCancellation Reason:\n\nPowered by Calendly https://calendly
+ .com/<https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcal
+ endly.com%2F&data=05%7C01%7Cmanoj.nathyogi%40bison.howard.edu%7C4e09d05f856
+ e4af94b0008da845e2eb9%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C63796783
+ 7282376321%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJB
+ TiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2BR%2BJ559MVO4sLpKccB4d0a
+ oUOLOPFfM8qFifF5fMTIk%3D&reserved=0>\n
+LAST-MODIFIED:20220918T194657Z
+LOCATION:https://howard.zoom.us/j/85777724744?pwd=TzY3Sk5SQjU2VDlEZDVPT21yW
+ UFsQT09
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Canceled: Manoj Nath Yogi and Harry N Keeling
+TRANSP:TRANSPARENT
+X-MICROSOFT-LOCATIONDISPLAYNAME:https://howard.zoom.us/j/85777724744?pwd=Tz
+ Y3Sk5SQjU2VDlEZDVPT21yWUFsQT09
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"https://howard.zoom.us/j/85777724744
+ ?pwd=TzY3Sk5SQjU2VDlEZDVPT21yWUFsQT09"\,"LocationAnnotation":""\,"LocationU
+ ri":""\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""\,"Locati
+ onCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}]
+X-MICROSOFT-CDO-OWNERAPPTID:2120791521
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-LOCATIONSOURCE:None
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220823T090000
+DTEND;TZID=America/New_York:20220823T140000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=TU,TH
+DTSTAMP:20240223T055903Z
+UID:37vngpb5l3b6pqjvj2n5r1o0ri@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T194714Z
+LOCATION:Anywhere
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Assignments/ Reading hrs
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220823T141000
+DTEND;TZID=America/New_York:20220823T150000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=TU,TH
+DTSTAMP:20240223T055903Z
+UID:142gf8bgvu23iol8rf3muucm8g@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:Zoom:\nCanvas:
+LAST-MODIFIED:20220918T194758Z
+LOCATION:Online
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:CS 120
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220826T140000
+DTEND;TZID=America/New_York:20220826T170000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=FR
+DTSTAMP:20240223T055903Z
+UID:215ce36pl5n9siu9meor9tiitb@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T194817Z
+LOCATION:2300 6th St NW\, Washington\, DC 20059\, USA
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Programming Hours - LKD Reading Room
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220822T235900
+DTEND;TZID=America/New_York:20220823T070000
+RRULE:FREQ=DAILY;UNTIL=20221214T045959Z
+DTSTAMP:20240223T055903Z
+UID:5pdp3bopc2pchadk5r367qffrp@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T194833Z
+LOCATION:At Home
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sleep/ Rest
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220827T080000
+DTEND;TZID=America/New_York:20220827T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220918T035959Z;BYDAY=SU,SA
+DTSTAMP:20240223T055903Z
+UID:1aqq2jgk2nnns60g3jh72rtlsu@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T195153Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Personal Time/ Project/ Assignments
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220826T190000
+DTEND;TZID=America/New_York:20220826T233000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20220918T035959Z;BYDAY=FR,SA,SU
+DTSTAMP:20240223T055903Z
+UID:2j4c3ids0ns617bjfb9scpgeot@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T195237Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Assignments
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220823T180000
+DTEND;TZID=America/New_York:20220823T190000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=TU,TH
+DTSTAMP:20240223T055903Z
+UID:06fcfkgd847ub2kdt55d3m7s95@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:Meet\nCanvas\nCoursera
+LAST-MODIFIED:20220918T195252Z
+LOCATION:Online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CS 380
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220823T140000
+DTEND;TZID=America/New_York:20220823T180000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=TU,TH
+DTSTAMP:20240223T055903Z
+UID:0lhllcehk0epvoe4cn9apdgbpt@google.com
+CREATED:20220918T194105Z
+DESCRIPTION:CS Project\nprogramming Practice and Projects
+LAST-MODIFIED:20220918T195308Z
+LOCATION:Anywhere
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Project
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=America/New_York:20220827T190000
+DTEND;TZID=America/New_York:20220827T233000
+RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20221214T045959Z;BYDAY=SA,SU
+DTSTAMP:20240223T055903Z
+UID:06tmc8cfdrnuvoj39u59i4bdt8@google.com
+CREATED:20220918T194105Z
+LAST-MODIFIED:20220918T195322Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Project
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

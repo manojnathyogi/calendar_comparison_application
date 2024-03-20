@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Compare Calendars</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Calendar Compare Tool</h1>
+        <div class="upload-area">
+            <p>Drop calendar files here or click to upload (Only .ics files & Multiple files Allowed)</p>
+            <input type="file" id="calendarFiles" accept=".ics" multiple>
+            <!-- Add this div to display the list of selected files -->
+            <div id="file-list">No files selected.</div>
+        </div>
+        
+
+        <button id="compare">Compare</button>
+        <div id="submit-message"></div>
+        <h2>Comparison Results</h2>
+        <div id="results"></div>
+        <h2>Feedback</h2>
+        <form id="feedback-form">
+            <textarea id="feedback" placeholder="Enter your feedback here..."></textarea>
+            <button type="submit">Submit Feedback</button>
+        </form>
+    </div>
+    <script src="/js/script.js"></script>
+</body>
+</html>
