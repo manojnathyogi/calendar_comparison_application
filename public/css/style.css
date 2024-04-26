@@ -38,6 +38,17 @@ h1 {
     background-color: #f9f9f9;
 }
 
+.time-boundary {
+    margin: 20px 0;
+}
+
+.time-boundary input[type="time"] {
+    padding: 5px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
 #feedback-form {
     margin-top: 20px;
     margin-bottom: 20px;

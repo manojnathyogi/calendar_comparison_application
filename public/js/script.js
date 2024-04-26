@@ -1,28 +1,17 @@
-document.getElementById('calendarFiles').addEventListener('change', function() {
-    const fileListElement = document.getElementById('file-list');
-    fileListElement.innerHTML = ''; // Clear previous file list
-    const files = this.files;
-    // Check if any files were selected
-    if (files.length === 0) {
-        fileListElement.innerHTML = 'No files selected.';
-    } else {
-        const list = document.createElement('ul');
-        fileListElement.appendChild(list);
-        for (let i = 0; i < files.length; i++) {
-            const li = document.createElement('li');
-            li.textContent = files[i].name; // Display the file name
-            list.appendChild(li);
-        }
-    }
-});
-
 document.getElementById('compare').addEventListener('click', function() {
     const files = document.getElementById('calendarFiles').files;
+    const startDate = document.getElementById('startDate').value;
+    const startTime = document.getElementById('startTime').value;
+    const endDate = document.getElementById('endDate').value;
+    const endTime = document.getElementById('endTime').value;
     const formData = new FormData();
-    // Loop through the files selected by the user and append them to formData
+
     for (let i = 0; i < files.length; i++) {
         formData.append('calendars', files[i]);
     }
+
+    formData.append('startDateTime', `${startDate}T${startTime}:00`);
+    formData.append('endDateTime', `${endDate}T${endTime}:00`);
 
     fetch('/compare', {
         method: 'POST',
@@ -39,26 +28,6 @@ document.getElementById('compare').addEventListener('click', function() {
     });
 });
 
-document.getElementById('feedback-form').addEventListener('submit', function(event) {
-    event.preventDefault();
-    const feedback = document.getElementById('feedback').value;
-    fetch('/feedback', {
-        method: 'POST',
-        headers: {
-            'Content-Type': 'application/x-www-form-urlencoded',
-        },
-        body: `feedback=${encodeURIComponent(feedback)}`
-    })
-    .then(response => response.text())
-    .then(data => {
-        alert('Feedback submitted. Thank you!');
-        document.getElementById('feedback').value = ''; // Clear the textarea after submission
-    })
-    .catch(error => {
-        alert('Error submitting feedback: ' + error);
-    });
-});
-
 function displayResults(freeTimes) {
     const resultsElement = document.getElementById('results');
     resultsElement.innerHTML = ''; // Clear previous results
@@ -70,3 +39,20 @@ function displayResults(freeTimes) {
     });
     resultsElement.style.display = 'block';
 }
+document.getElementById('calendarFiles').addEventListener('change', function() {
+    const fileListElement = document.getElementById('file-list');
+    fileListElement.innerHTML = ''; // Clear previous file list
+    const files = this.files;
+    if (files.length === 0) {
+        fileListElement.innerHTML = 'No files selected.';
+    } else {
+        const list = document.createElement('ul');
+        fileListElement.appendChild(list);
+        for (let i = 0; i < files.length; i++) {
+            const li = document.createElement('li');
+            li.textContent = files[i].name; // Display the file name
+            list.appendChild(li);
+        }
+    }
+});
+

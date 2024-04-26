@@ -11,11 +11,19 @@
         <div class="upload-area">
             <p>Drop calendar files here or click to upload (Only .ics files & Multiple files Allowed)</p>
             <input type="file" id="calendarFiles" accept=".ics" multiple>
-            <!-- Add this div to display the list of selected files -->
             <div id="file-list">No files selected.</div>
         </div>
-        
-
+        <div class="time-boundary">
+            <label for="startDate">Comparison Start Date:</label>
+            <input type="date" id="startDate" name="startDate" required>
+            <label for="startTime">Start Time (24hr):</label>
+            <input type="time" id="startTime" name="startTime" required step="3600" min="00:00" max="23:00">
+            
+            <label for="endDate">Comparison End Date:</label>
+            <input type="date" id="endDate" name="endDate" required>
+            <label for="endTime">End Time (24hr):</label>
+            <input type="time" id="endTime" name="endTime" required step="3600" min="00:00" max="23:00">
+        </div>
         <button id="compare">Compare</button>
         <div id="submit-message"></div>
         <h2>Comparison Results</h2>
